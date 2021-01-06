@@ -1,0 +1,27 @@
+@media (max-width:1024px){
+	.banner-digial-brand-box {
+    position: relative;
+    margin: auto;
+    right: auto;
+}
+.home-slider .slick-next {
+    right: 33%;
+}
+}
+@media (max-width:768px){
+.home-slider .slick-next {
+    right: 52px;
+}
+}
+@media (max-width:480px){
+.header-logo a img {
+    max-width: 200px;
+}
+section.banner-sec {
+    margin: 0;
+}
+.banner-img img {
+	width: 100%;
+}
+
+}
